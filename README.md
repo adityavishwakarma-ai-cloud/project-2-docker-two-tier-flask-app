@@ -1,8 +1,3 @@
-Awesome 🔥 Let’s move on with **Project 2: Containerization of a Two-Tier Application using Docker**.
-Here’s a **GitHub-ready README.md** (with Docker setup instructions).
-
----
-
 # 🐳 Project 2: Containerization of a Two-Tier Application using Docker
 
 ## 📌 Project Overview
@@ -184,9 +179,3 @@ Containerized a two-tier application to improve scalability, portability, and de
 ```md
 https://github.com/<your-username>/project-2-docker-twotier
 ```
-
----
-
-👉 Next, I can also create a **sample web app (`app.js`)** and a **database init script (`init.sql`)** so your project runs end-to-end.
-
-Would you like me to make those too?
